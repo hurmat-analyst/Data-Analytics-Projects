@@ -5,6 +5,7 @@
 This project focuses on inventory and supply chain management analysis using Power BI.
 
 The dashboard provides insights into warehouse utilization, inventory levels, transportation costs, lead time analysis, and order status trends through interactive visualizations and KPIs.
+
 ---
 
 ## Tools & Technologies
